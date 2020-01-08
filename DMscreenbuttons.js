@@ -39,4 +39,4 @@ for(let i = 0; i < buttonsDM.length; i++){
     function Button3() {
         alert("Button3 pushed");
     }
-();
+})();
